@@ -1,0 +1,121 @@
+unique,player_name,position,season_hits,season_rbis,throwing_hand,player_national,slg_carrer_average,signing_age,education_level,silver_slugger,total_teams,net_worth,height,weight,strikeout_rate,season_hr,games_played,batting_average
+obv1,Gary Sheffield,Outfielder,170,123,1,1,0.514,35,1,1,8,"90,000,000",6'0,215,10.7,36,347,0.29
+obv2,Bernie Williams,Outfielder,202,102,1,0,0.477,16,2,1,1,"60,000,000",6'2,205,13.4,30,2076,0.297
+obv3,Ruben Sierra,DH,106,70,1,0,0.45,29,1,1,9,"20,000,000",6'1 ,220,14.1,17,107,0.268
+obv4,John Flaherty,Catcher,120,43,1,1,0.377,35,2,0,5,,6'1,200,14.1,12,191,0.252
+obv5,Kenny Lofton,Outfielder,128,38,2,1,0.423,36,2,0,11,"25,000,000",5'11,190,11,7,83,0.275
+obv6,Miguel Cairo,Second Base,115,42,1,0,0.361,29,1,0,9,,6'1,225,11,6,54,0.264
+obv7,Enrique Wilson,Infielder,51,21,1,0,0.347,27,1,0,4,,5'11,190,11,3,233,0.192
+obv8,Andy Phillips,First Base,59,29,1,1,0.41,22,2,0,3,,6'0,215,18.2,7,75,0.236
+obv9,Bubba Crosby,Outfielder,27,6,2,1,0.3,27,2,0,2,,5'11,195,19,2,55,0.266
+obv10,Tony Womack,Second Base,44,15,1,1,0.362,35,2,0,7,,5'9,170,12,0,146,0.286
+obv11,Rey Sanchez,Shortstop,38,17,1,0,0.334,37,1,0,9,,5'9,170,9.7,1,60,0.262
+obv12,Gerald Williams,Outfielder,57,30,1,1,0.391,21,2,0,6,,6'2 ,185,15.9,5,116,0.256
+obv13,Travis Lee,First Base,57,25,2,1,0.408,28,2,0,4,,6'3,220,18.8,5,7,0.265
+obv14,Todd Zeile,Third Base,58,31,1,1,0.423,37,2,0,11,,6'1,200,14.8,6,66,0.273
+obv15,Raul Mondesi,Outfielder,142,88,1,0,0.485,31,1,1,7,,5'11,225,21.9,19,169,0.256
+obv16,David Dellucci,Outfielder,40,17,2,1,0.435,30,2,0,7,,5'11,205,19.2,4,11,0.238
+obv17,Chris Widger,Catcher,38,15,1,1,0.388,31,2,0,3,,6'2,220,16,3,21,0.28
+obv18,Esteban German,Infielder,0,0,1,0,0.386,33,1,0,2,,5'9,195,23.8,0,126,0.193
+obv19,Clay Bellinger,Utility,38,17,1,1,0.31,30,2,0,2,,6'3,210,17.2,2,311,0.241
+obv20,Nick Johnson,First Base,99,58,2,1,0.441,18,1,0,5,,6'3,235,21.2,15,108,0.27
+obv21,Karim Garcia,Outfielder,10,36,1,0,0.424,26,1,0,7,,6'0,210,12.3,10,52,0.262
+obv22,Jose Vizcaino,Shortstop,102,42,1,0,0.351,32,1,0,8,,6'1,190,19.1,2,73,0.209
+obv23,Shane Spencer,Outfielder,84,41,1,1,0.428,18,1,0,4,,6'0,220,16.7,12,538,0.262
+obv24,Felix Escalona,Infielder,15,6,1,0,0.313,25,1,0,2,,6'0,190,15.9,1,8,0.22
+obv25,Charlie Hayes,Third Base,126,60,1,1,0.372,26,1,0,7,,6'0,205,17.7,5,120,0.246
+obv26,Alberto Castillo,Catcher,32,14,1,0,0.287,35,2,0,8,,6'2,255,25.7,2,18,0.233
+obv27,Marcus Thames,Outfielder,12,4,1,1,0.485,19,2,0,4,,6'2,220,20.1,3,108,0.285
+obv28,Erick Almonte,Shortstop,31,14,1,0,0.331,16,1,0,2,,6'2,245,17.3,1,8,0.243
+obv29,Homer Bush,Second Base,106,47,1,1,0.358,24,1,0,4,,5'10,185,21.5,2,105,0.5
+obv30,Ricky Ledée,Outfielder,84,44,2,0,0.414,16,1,0,7,,6'1,225,25.6,7,42,0.296
+obv31,Rico Noel,Outfielder,0,0,1,1,0.5,26,2,0,1,,5'8,170,14.5,0,2,0.239
+obv32,Billy Butler,First Base,10,4,1,1,0.426,30,1,0,3,"20,000,000",6'0,260,22.5,1,9,0.249
+obv33,Ike Davis,First Base,0,0,1,1,0.401,29,2,0,4,,6'4,220,24.6,0,2,0.242
+obv34,Ben Gamel,Outfielder,8,0,1,1,0.382,18,1,0,8,,5'11,180,27.6,0,6,0.279
+obv35,Chris Parmelee,First Base,8,4,1,1,0.407,28,1,0,3,,6'1,220,23.6,2,0,0.245
+obv36,Donovan Solano,Second Base,0,2,1,0,0.388,28,1,0,7,,5'8,210,19.1,0,1,0.245
+obv37,Eric Young Jr,Outfielder,0,0,1,1,0.342,31,2,0,5,,5'10,195,18.2,0,0,0.236
+obv38,Brandon Drury,Third Base,15,7,1,1,0.434,25,1,0,7,,6'2,225,22.7,1,0,0.239
+obv39,Adeiny Hechavarria,Shortstop,9,8,1,0,0.352,29,1,0,7,,6'0,195,16.7,2,0,0.246
+obv40,Andrew McCutchen,Outfielder,20,10,1,1,0.457,31,1,0,5,"60,000,000",5'10,190,19.5,5,61,0.279
+obv41,Jace Peterson,Outfielder,0,0,1,1,0.355,27,2,0,7,,6'0,215,22.2,0,3,0.226
+obv42,Shane Robinson,Outfielder,9,2,1,1,0.297,33,2,0,4,,5'9,170,14.1,0,9,0.221
+obv43,Chris Gittens,First Base,8,5,1,1,0.333,20,2,0,1,,6'3,250,29.5,1,16,0.111
+obv44,Taylor Trammell,Outfielder,0,0,1,1,0.355,26,1,0,4,,6'2,220,35.2,0,0,0.167
+obv45,Duke Ellis,Outfielder,1,0,1,1,0.2,26,2,0,2,,6'2,180,40,0,3,
+obv46,Hoy Park,Second Base,10,5,1,0,0.296,18,1,0,2,,6'0,200,25.2,0,0,
+obv47,Brian McCann,Catcher,131,94,1,1,0.452,30,1,1,3,,6'3,225,15.4,23,416,0.262
+obv48,Dean Anna,Shortstop,6,3,1,1,0.25,27,2,0,2,,5'11 ,180,23.1,1,12,
+obv49,Brian Roberts,Second Base,85,21,1,1,0.409,36,2,0,2,"27,000,000",5'9,175,13.5,5,39,0.279
+obv50,Austin Kearns,Outfielder,8,7,1,1,0.413,30,1,0,5,,6'3,240,21.5,2,81,0.242
+obv51,Kevin Russo,Third Base,31,11,1,1,0.276,22,2,0,1,,5'11,190,16.7,0,26,
+obv52,Jay Bruce,First Base,4,3,1,1,0.467,33,1,1,6,"50,000,000",6'3 ,230,23.7,1,0,0.257
+obv53,Gary Sanchez,Catcher,125,90,2,1,0.461,16,1,1,6,,6'2,245,26.8,33,707,0.237
+obv54,Jose Trevino,Catcher,86,43,1,1,0.36,29,2,0,3,,5'9,215,16.8,11,134,0.27
+obv55,Gio Urshela,Third Base,139,74,1,1,0.407,27,1,0,8,,6'0,215,18.3,21,143,0.264
+obv56,Anthony Rizzo,First Base,112,75,1,1,0.481,31,1,1,3,"50,000,000",6'3,240,16.5,32,171,0.24
+obv57,Aaron Hicks,Outfielder,119,79,2,1,0.383,26,1,0,4,,6'1,205,21.7,27,130,0.284
+obv58,Aaron Judge,Outfielder,177,131,1,1,0.615,21,2,1,1,"50,000,000",6'7,282,27.4,62,1010,0.241
+obv59,Luke Voit,First Base,59,52,1,1,0.468,27,2,0,5,,6'2,258,28.8,22,171,0.261
+obv60,Andrew Benintendi,Outfielder,71,12,2,1,0.431,28,2,0,4,,5'10,185,17.6,5,33,0.242
+obv61,Oswaldo Cabrera,Infielder,60,29,1,1,0.346,16,1,0,1,,6'0,200,21.5,6,60,0.298
+obv62,Jason Giambi,First Base,159,122,1,1,0.516,30,2,1,4,"50,000,000",6'3,240,17.6,41,1074,0.268
+obv63,Russ Johnson,Third Base,2,0,1,1,0.391,32,1,0,3,,5'10,185,17.9,0,3,0.221
+obv64,Eric Chavez,Third Base,84,37,1,1,0.472,34,1,1,3,"40,000,000",6'1,215,17.3,16,1535,0.223
+obv65,Darnell McDonald,Outfielder,0,0,1,1,0.397,34,1,0,6,,5'11,205,21.7,0,0,0.234
+obv66,Jayson Nix,Infielder,63,18,1,1,0.361,29,1,0,7,,5'11,195,25.3,4,96,0.204
+obv67,Tyler Austin,First Base,40,30,1,1,0.451,18,1,0,4,,6'2,220,36.9,8,41,0.242
+obv68,Dewayne Wise,Outfielder,36,19,2,1,0.388,34,1,0,6,,6'0,200,20.7,5,6,0.218
+obv69,Ji-Man Choi,First Base,1,0,1,1,0.426,25,1,0,6,,6'0,260,25.9,0,6,0.226
+obv70,Greg Bird,First Base,38,31,1,1,0.424,18,1,0,2,,6'3,205,27,11,173,0.203
+obv71,Dustin Fowler,Outfielder,1,0,1,1,0.348,18,1,0,3,,6'0,195,26.9,0,3,0.209
+obv72,Erik Kratz,Catcher,2,0,1,1,0.278,36,2,0,9,,6'4,250,21.9,0,5,0.262
+obv73,Pete Kozma,Shortstop,0,0,1,1,0.276,28,1,0,5,,6'0,190,21.6,0,11,0.266
+obv74,Garrett Cooper,First Base,13,6,1,1,0.427,26,2,0,5,,6'4,235,26.9,0,1,0.248
+obv75,Matt Lawton,Outfielder,10,4,2,1,0.422,33,2,0,7,,5'10,190,11,2,21,0.251
+obv76,Mark Bellhorn,Third Base,5,2,1,1,0.404,31,2,0,7,,6'1,205,29,0,9,0.284
+obv77,Stephen Drew,Second Base,76,44,1,1,0.423,31,2,0,5,,6'0,200,18.8,17,39,0.256
+obv78,Johnny Damon,Outfielder,166,100,2,1,0.433,32,1,1,7,"60,000,000",6'2 ,205,11.5,24,1050,0.31
+obv79,Brett Gardner,Outfielder,149,58,1,1,0.398,21,2,0,1,"25,000,000",5'11,195,18.8,17,1788,0.303
+obv80,Derek Jeter,Shortstop,219,102,1,1,0.44,18,1,1,1,"200,000,000",6'3,195,14.6,28,2747,0.28
+obv81,Robinson Cano,Second Base,200,118,1,1,0.488,18,1,1,5,"110,000,000",6'0,212,12.7,33,1305,0.272
+obv82,Melky Cabrera,Outfielder,149,68,1,1,0.399,17,1,0,8,"13,000,000",5'10,210,11.8,13,1010,0.249
+obv83,Raul Ibanez,Outfielder,97,62,1,1,0.472,39,2,0,5,"27,000,000",6'2,225,16.6,19,130,0.218
+obv84,Ramiro Pena,Shortstop,36,12,1,1,0.343,16,1,0,3,,5'11,200,18.5,1,101,0.24
+obv85,Chris Carter,First Base,37,26,1,1,0.426,30,1,0,6,,6'4,245,33.3,8,62,0.245
+obv86,Clint Frazier,Outfielder,27,10,1,1,0.393,21,1,0,3,,5'11,212,29,2,74,0.299
+obv87,Todd Frazier,Third Base,54,38,1,1,0.445,31,2,0,6,"7,000,000",6'3,215,21.9,11,66,0.238
+obv88,Matt Holiday,First Base,91,64,1,1,0.51,37,1,0,4,,6'4,240,17.1,19,1,0.259
+obv89,Mason Williams,Outfielder,17,5,1,1,0.319,18,1,0,4,,6'1,195,24.2,1,17,0.271
+obv90,Kevin Cash,Catcher,3,1,1,1,0.278,31,2,0,5,,6'0,200,27.3,0,3,0.221
+obv91,Tyler Wade,Second Base,43,11,1,1,0.284,18,1,0,4,,6'0,188,23.7,2,149,0.236
+obv92,Shelley Duncan,Outfielder,27,24,1,1,0.419,21,2,0,3,,6'5,215,24.4,8,60,0.229
+obv93,Eric Hinske,Outfielder,28,20,1,1,0.43,31,2,0,7,,6'2,235,22,7,43,0.247
+obv94,Xavier Nady,Outfielder,148,97,1,1,0.432,29,2,0,8,,6'2,215,19.3,25,139,0.216
+obv95,Cody Ransom,Third Base,25,24,1,1,0.361,32,2,0,6,,6'2,200,31.9,4,9,0.269
+obv96,Greg Allen,Outfielder,20,7,1,1,0.346,29,2,0,5,,5'10,187,23.6,1,2,0.211
+obv97,Jake Bauers,Outfielder,65,30,2,1,0.365,27,1,0,5,,6'0,203,29,12,84,0.265
+obv98,Willie Calhoun,Outfielder,36,17,1,1,0.399,28,2,0,4,,5'8,205,14.5,5,18,0.291
+obv99,Franchy Cordero,Outfielder,20,12,1,1,0.395,28,1,0,4,,6'3,225,34.9,4,24,0.256
+obv100,Josh Donaldson,Third Base,91,62,1,1,0.489,36,2,0,7,,6'1,210,20.9,15,165,0.247
+obv101,Estevan Florial,Outfielder,15,5,1,1,0.329,17,1,0,2,,6'1,195,33.5,1,48,0.22
+obv102,Anthony Volpe,Shortstop,113,60,1,1,0.38,18,1,0,1,"1,000,000",5'10,197,25.1,21,150,0.256
+obv103,Bobby Abreu,Outfielder,176,100,1,1,0.475,32,1,1,6,"40,000,000",6'0,220,18.3,20,1000,0.229
+obv104,Jesus Montero,Third Base,20,12,1,1,0.398,16,1,0,2,,6'3,235,19.9,4,18,0.24
+obv105,Wilson Betemit,Infielder,56,38,1,1,0.425,25,1,0,7,,6'2,220,26.2,10,42,0.208
+obv106,Wil Nieves,Catcher,5,2,1,0,0.306,27,1,0,7,,5'11,190,18.1,0,10,0.268
+obv107,Josh Phelps,First Base,18,12,1,1,0.472,29,1,0,6,,6'3,225,25.6,3,8,
+obv108,Bronson Sardinha,Outfielder,1,0,1,0,0.333,18,1,0,1,,6'1,220,8.3,0,1,0.227
+obv109,Kevin Thompson,Outfielder,12,3,1,0,0.333,19,2,0,2,,5'10,195,29.3,1,1,0.27
+obv110,David Adams,Third Base,27,13,1,1,0.286,21,2,0,1,,6'2,205,28.3,2,1,0.241
+obv111,Zoilo Almonte,Outfielder,25,9,1,1,0.343,16,1,0,2,,6'0,205,22.1,1,2,0.258
+obv112,Luis Cruz,Third Base,6,1,1,1,0.336,29,1,0,4,,6'1,210,12,0,3,0.235
+obv113,Joseph Corban,First Base,1,0,1,1,0.324,19,1,0,5,,6'0,185,19.1,0,1,0.17
+obv114,Thomas Neal,Outfielder,2,0,1,1,0.211,25,1,0,3,,6'2,220,24.4,0,1,0.184
+obv115,Lyle Overbay,First Base,99,59,1,1,0.399,36,2,0,7,,6'2,235,19.1,14,121,0.266
+obv116,Mark Reynolds,First Base,20,19,1,0,0.453,30,2,0,8,,6'2,220,30.9,6,19,0.236
+obv117,Nick Green,Infielder,4,1,1,0,0.348,27,2,0,8,,5'11,190,23.4,0,0,0.236
+obv118,Kelly Stinnett,Catcher,15,6,1,1,0.389,35,2,0,8,,5'11,235,27.6,1,0,0.234
+obv119,Craig Wilson,First Base,29,14,1,1,0.474,29,2,0,3,,6'2,225,27.8,5,40,0.262
+obv120,Colin Curtis,Outfielder,12,10,1,1,0.288,21,2,0,1,,6'1,200,23.4,2,31,0.186

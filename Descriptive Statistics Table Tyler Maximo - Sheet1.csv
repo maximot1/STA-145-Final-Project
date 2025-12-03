@@ -1,0 +1,6 @@
+Table 1: Descriptive Statistics,,,,,
+,Mean,SD,Min,Max,Description
+Strikeout Rate,20.9975,6.272233288,8.3,40,How often the player was struck out with the Yankees measured in decimal percentages 
+Nationality,,,,,Was the player born in U.S.A. or elsewhere
+Born in U.S.A.,0.825,,,,The player was born in U.S.A.
+Born Elsewhere,0.175,,,,The player was born elsewhere
